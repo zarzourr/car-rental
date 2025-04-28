@@ -119,8 +119,6 @@ car-rental/
 
 ## 🤝 Contributing
 
-We love your input! We want to make contributing to Cruise as easy and transparent as possible.
-
 1. Fork the repo
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
@@ -133,6 +131,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Thanks to all our contributors
-- Inspired by modern car-sharing platforms
 - Built with ❤️ by the Cruise team 
